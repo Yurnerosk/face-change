@@ -1,5 +1,7 @@
 *.png
 *.jpeg
+*.jpg
+*.mp4
 *.onnx
 face_venv/
 
