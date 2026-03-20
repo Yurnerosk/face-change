@@ -3,7 +3,7 @@
 
 Use with moderation!
 
-📸 # Technologies
+📸 #Technologies
 
 - **Python**
 
