@@ -5,6 +5,9 @@
 *.onnx
 face_venv/
 
+pratice.ipynb
+test_1.ipynb
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
