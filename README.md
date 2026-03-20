@@ -5,17 +5,17 @@ Use with moderation!
 
 # 📸 Technologies
 
-- **Python**
+- `Python`
 
 # ➕ Key Libraries
 
-- **Insightface**: the heart of the program, will detect the faces, automatically crop the faces from the photos, collect informations about it and also swap the faces.
+- `Insightface`: the heart of the program, will detect the faces, automatically crop the faces from the photos, collect informations about it and also swap the faces.
 
-- **OpenCV (cv2)**: read and save images
+- `OpenCV (cv2)`: read and save images
 
-- Matplotlib
+- `Matplotlib`
 
-- Numpy
+- `Numpy`
 
 # 🐣 The Process
 
@@ -24,17 +24,17 @@ I had been trying to edit a friend into a photo of a famous singer's music video
 # 🏓 Running the project
 
 1. Introduction
-For this project, I've used Python 3.9.19. Be sure to update pip first.
+For this project, I've used `Python 3.9.19`. Be sure to update pip first.
 Create new a virtual environment so the configurations are kept inside the project folder and don't interfere with anything else.
 The project uses key libraries that need to be installed first using pip. You can install them in the shown order.
 
-You also need to use a specific file to run: "inswapper_128.onnx". to get it, please consider this [reddit post](https://www.reddit.com/r/midjourney/comments/13pnraj/please_reupload_inswapper_128onnx/).
+You also need to use a specific file to run: `inswapper_128.onnx`. to get it, please consider this [reddit post](https://www.reddit.com/r/midjourney/comments/13pnraj/please_reupload_inswapper_128onnx/).
 
 2. Using the script for a single frame
-In the script 'frame_change.ipynb', you will be able to edit a single frame. Simply choose the directory of the original scenario image, and then the new person image. Then you can run the script. The result will come out as 'result.png'.
+In the script `frame_change.ipynb`, you will be able to edit a single frame. Simply choose the directory of the original scenario image, and then the new person image. Then you can run the script. The result will come out as `result2.png`.
 
 3. Using the script for a video (caution☢️)
-In the script 'video_processor2.ipynb' you need to provide the video directory, the frame count of the video (like 60FPS) and then scpecify the new person photo directory. Warning!☢️ Running the script, you will notice that this process will take a while, and quite intense on the processor/GPU. It is recommended to benchmark the computer with a short video first in order to be safe against temperature issues.
+In the script `video_processor2.ipynb` you need to provide the video directory, the frame count of the video (like 60FPS) and then scpecify the new person photo directory. Output video will be named as `output_video.mp4`. Warning!☢️ Running the script, you will notice that this process will take a while, and quite intense on the processor/GPU. It is recommended to benchmark the computer with a short video first in order to be safe against temperature issues.
 
 # 📑 Final notes
 
