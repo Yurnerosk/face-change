@@ -3,11 +3,11 @@
 
 Use with moderation!
 
-📸 #Technologies
+# 📸 Technologies
 
 - **Python**
 
-➕ # Key Libraries
+# ➕ Key Libraries
 
 - **Insightface**: the heart of the program, will detect the faces, automatically crop the faces from the photos, collect informations about it and also swap the faces.
 
@@ -17,11 +17,11 @@ Use with moderation!
 
 - Numpy
 
-🐣 # The Process
+# 🐣 The Process
 
 I had been trying to edit a friend into a photo of a famous singer's music video, because he liked to be extremely romantic as an excuse to play dumb. So I wrote a code to not only be able to shift his face with the singer, but can also recompile a video using the same logic.
 
-🏓 # Running the project
+# 🏓 Running the project
 
 1. Introduction
 For this project, I've used Python 3.9.19. Be sure to update pip first.
