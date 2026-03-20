@@ -1,4 +1,5 @@
 *.png
+!ross_friends.png
 *.jpeg
 *.jpg
 *.mp4
