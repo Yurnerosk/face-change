@@ -5,7 +5,7 @@
 *.onnx
 face_venv/
 
-pratice.ipynb
+practice.ipynb
 test_1.ipynb
 
 # Byte-compiled / optimized / DLL files
