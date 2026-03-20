@@ -36,7 +36,7 @@ In the script 'frame_change.ipynb', you will be able to edit a single frame. Sim
 3. Using the script for a video (caution☢️)
 In the script 'video_processor2.ipynb' you need to provide the video directory, the frame count of the video (like 60FPS) and then scpecify the new person photo directory. Warning!☢️ Running the script, you will notice that this process will take a while, and quite intense on the processor/GPU. It is recommended to benchmark the computer with a short video first in order to be safe against temperature issues.
 
-📑 # Final notes
+# 📑 Final notes
 
 You can use `python -m venv your_env_name_here` to create an environment, and then `your_env_name_here\Scripts\activate` to activate it before anything else.
 Credits to Rob Mulla, he did a very cool video explaining the **Insightface** features [here](https://www.youtube.com/watch?v=a8vFMaH2aDw.)!
