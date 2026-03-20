@@ -17,6 +17,8 @@ Use with moderation!
 
 - `Numpy`
 
+![image alt](https://github.com/Yurnerosk/face-change/blob/b2740ae38ec6fbe54a299b7903177e1ed207df5c/ross_friends.png)
+
 # 🐣 The Process
 
 I had been trying to edit a friend into a photo of a famous singer's music video, because he liked to be extremely romantic as an excuse to play dumb. So I wrote a code to not only be able to shift his face with the singer, but can also recompile a video using the same logic.
